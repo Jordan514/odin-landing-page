@@ -1,0 +1,1 @@
+The Goal of this Project is to practice and use allmthe skills learned in the HTML, CSS, and Flexbox sections of the Odin Project.
